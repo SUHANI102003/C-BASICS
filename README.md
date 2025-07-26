@@ -9,7 +9,7 @@ If you're also learning C or just brushing up the basics, feel free to check out
 - [CHAPTER 4](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%204) [Loop Control Statements - For, While, Do..while]
 - [CHAPTER 5](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%205) [Functions & Recurssion]
 - [CHAPTER 6](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%206) [Pointers]
-- [CHAPTER 7]()[Arrays]
+- [CHAPTER 7](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%207) [Arrays]
 
 ## Tools & Setup ⚒️
 I'm using Visual Studio Code (VS Code) to write my C programs.
