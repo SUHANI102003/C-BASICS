@@ -3,7 +3,7 @@
 //---------------------------------------------
 // FUNCTIONS
 //---------------------------------------------
-/*
+
 //function prototype/declaration
 void printHello();
 
@@ -18,12 +18,12 @@ int main(){
 void printHello(){
   printf("hello\n");
 }
-*/
+
 
 //--------------------------------
 //write 2 f'n -one to print hello and 2nd to print goodbye
 //-----------------------------------
-/*
+
 void printhello();
 void printgoodbye();
 
@@ -38,12 +38,12 @@ void printhello(){
 }
 void printgoodbye(){
   printf("goodbye\n");
-}*/
+}
 
 //---------------------------------------------------
 //a f'n that prints namaste if indian & bojour if french
 //-----------------------------------------------------
-/*
+
 void namaste();
 void bonjour();
 
@@ -65,8 +65,8 @@ void namaste(){
 void bonjour(){
   printf("bonjour\n");
 }
-*/
-/*
+
+
 //---------------------------------------------------
 // FUNCTIONS WITH PARAMETERS
 //---------------------------------------------------
@@ -91,12 +91,12 @@ int sum(int a, int b){
   //return 12; will also be correct by compiler b/c in the end it is returning an interger but is not logically correct as if a=1 and b=5 then sum is 6 
   //return 3.14; // error as not an int return type
 }
-*/
+
 
 //---------------------------------------------------
 // Function to print table of n
 //---------------------------------------------------
-/*
+
 void table(int n);
 int main(){
   int n;
@@ -109,12 +109,12 @@ void table(int n){  //parameter or formal parameter
     printf("%d * %d = %d\n",n,i,n*i);
   }
 }
-*/
+
 
 //-------------------------------------------------------------
 // changes to parameter in fn dont change the values in calling fn
 //-------------------------------------------------------------
-/*
+
 void calculatePrice(float value);
 int main(){
   float value = 100.0;
@@ -127,8 +127,8 @@ void calculatePrice(float value){
   value = value + (0.18*value); // added 18% gst to value
   printf("final value = %f ",value);
 }
-*/
-/*
+
+
 //------------------------------------------
 //square of a number using library fn
 //-------------------------------------------
@@ -140,12 +140,12 @@ int main(){
 printf("%f",pow(n,2));
   return 0;
 }
-*/
+
 
 //-------------------------------------------
 //fn to calc area of square,circle,rect
 //--------------------------------------------
-/*
+
 float areaSquare(float side);
 float areaCircle(float radius);
 float areaRect(float length, float breadth);
@@ -170,12 +170,12 @@ float areaCircle(float radius){
 float areaRect(float length, float breadth){
   return length*breadth;
 }
-*/
+
 
 //----------------------------------------------------
 //RECURSIONS
 //----------------------------------------------------
-/*
+
 void printHW (int count);
 
 int main() {
@@ -193,7 +193,7 @@ void printHW (int count) {
   printf("HELLO WORLD!\n");  // print 1 time , remaining count-1 prints
   printHW(count - 1); // count - 1 prints by calling itself
 }
-*/
+
 
 //-------------------------------
 // SUM OF 1ST N NATURAL NUMBERS
@@ -208,7 +208,7 @@ void printHW (int count) {
 
 // pattern observed that all 1st digit is '1' in all sums.
 // sum func calling itself for n-1 calculation of sum till n=1 i.e, BASE CASE
-/*
+
 int sum(int n);
 
 int main() {
@@ -225,14 +225,14 @@ int sum(int n){
   int sumN = n + sumNm1; // sum of n numbers
   return sumN;
 }
-*/
+
 
 //--------------------------------------
 //FACTORIAL OF N
 //--------------------------------------
 
 // n! = n*(n-1)*(n-2)*............*2*1  =  n * facorial(n-1)
-/*
+
 int factorial (int n);
 
 int main()
@@ -250,14 +250,14 @@ int factM = n*factNm1;
 return factM;
 
 }
-*/
+
 
 //--------------------------------
 // F'N TO CONVERT CELSIUS TO FAHRENHEIT
 //---------------------------------
 
 // f = (c*(9/5)) + 32
-/*
+
 float cel2far (float celsius);
 
 int main(){
@@ -270,7 +270,7 @@ float cel2far (float celsius) {
   float far = celsius*(9.0/5.0) + 32;
   return far;
 }
-*/
+
 
 //-------------------------------------------
 // F'N TO PRINT N TERMS OF FIBONACCI SEQUENCE
