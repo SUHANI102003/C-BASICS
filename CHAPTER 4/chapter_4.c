@@ -1,7 +1,10 @@
 #include<stdio.h>
+
+//-----------------------------
 // LOOPS
+//----------------------------
 int main(){
-  /*
+  
   printf("Hello world");
   printf("Hello world");
   printf("Hello world");
@@ -13,16 +16,19 @@ for (int i = 0; i < 5; i=i+1) //  i++/i--/i=i-1
     printf("Hello world\n");
     printf("%d\n",i);
 }
-
+return 0;
+}
 
 //-----------------------------------------
 //PRINT NUMBERS FROM 1-10
 //-----------------------------------------
+int main(){
 for (int i = 0; i <=10; i++)
 {
     printf("%d ",i);
 }
-
+return 0;
+}
 
 // increment operator
 //i++(post increment op) or ++i(pre increment op)
@@ -48,47 +54,51 @@ for (char i = 'a'; i <='z'; i++)
   printf("%c\n",i);
 }
 
+//---------------------------------
 //infinite loops
+//------------------------------
 for (int i =1; ;i++)
 {
   printf("hello");
 }
 
-
+//-------------------------------------
 // WHILE LOOP
+//-------------------------------------
 int i=1;
 while(i<=5){
   printf("%d\n",i);
   i=i+1;
 }
-*/
+
 
 //---------------------------------------
 //PRINT NUMBERS FROM 0-N
 //---------------------------------------
-/*
+
 int n;
 printf("enter n");
 scanf("%d",&n);
 for (int i=0;i<=n;i++){
   printf("%d\n",i);
 }
-*/
 
+//------------------------------
 //DO WHILE LOOP
-/*
+//--------------------------------
+
 int i=5;
 do{
   printf("%d\n",i);
   i--;
 }
 while(i>=1);
-*/
+
 
 //-----------------------------------------------------
 //PRINT THE SUM OF 1ST N NATURAL NUM (ALSO PRINT NO IN REVERSE)
 //-------------------------------------------------------
-/*
+
 int n;
 int sum=0;
 printf("enter n\n");
@@ -104,19 +114,19 @@ printf("sum is : %d",sum);
  }
  */
 //or
-/*
+
 for (int i=1, j=n; i<=n && j>=1; i++,j--){   
 //same o/p even if we completely remove i
   sum=sum+i;   sum=sum+j;
   printf("%d\n",j);
 }
 printf("sum is : %d",sum);
-*/
+
 
 //----------------------------------------
 //PRINT THE TABLE OF A NO.
 //------------------------------------------
-/*
+
 int n;
 int product =0;
 printf("enter n\n");
@@ -125,10 +135,10 @@ for(int i=0; i<=10; i++){
   product = n*i;              // printf("%d",n*i);
   printf("%d * %d = %d\n", n,i,product);
 }
-*/
 
+//-----------------------------------
 //BREAK STATEMENT
-/*
+//-------------------------------------
 for(int i=1;i<=5;i++){
   if(i==3){
     break;
@@ -136,12 +146,12 @@ for(int i=1;i<=5;i++){
   printf("%d\n",i);
 }
 printf("end");
-*/
+
 
 //----------------------------------
 // KEEP TAKING I/P FROM USER UNTIL ENTERS ODD NUMBER
 //---------------------------------------
-/*
+
 int n;
 do{
  scanf("%d",&n);
@@ -152,12 +162,12 @@ do{
 }
 while (1);   //true
 return 0;
-*/
+
 
 //----------------------------------
 // KEEP TAKING I/P FROM USER UNTIL ENTERS NUMBER ie MULTIPLE OF 7
 //---------------------------------------
-/*
+
 int n;
 do{
   printf("enter the number:");
@@ -169,25 +179,26 @@ do{
 }
 while (1);   //true
 return 0;
-*/
 
+//------------------------------------
 //CONTINUE STATEMENT
+//------------------------------------
 //PRINT NO'S FRM 1-10 EXCEPT 6
-/*
+
 for(int i=1; i<=10; i++){
  if (i==6)
  {
-  continue;  // dont print 3 or skip 3
+  continue;  // dont print 6 or skip 6
  }
  printf("%d\n",i);
 }
  return 0;
- */
+ 
 
 //----------------------------------
 // PRINT ALL ODD NO'S FROM 5-50
 //---------------------------------------
-/*
+
 for(int i=5; i<=50; i++){
  if (i%2 ==0)
  {
@@ -205,13 +216,13 @@ for(int i=5; i<=50; i++){
  }
 }
  return 0;
- */
+ 
 
 
 //----------------------------------
 // PRINT FACTORIAL OF A NUMBER N
 //---------------------------------------
-/*
+
 int n;
 int factorial=1;
 printf("enter n:\n");
@@ -222,8 +233,8 @@ for(int i=1; i<=n; i++){
 printf("factorial of %d = %d\n",n,factorial);
 return 0;
 
-if n=50 then int will not be able to store the factorial of 50 so use different menthod to store fact --will learn later
-*/
+//if n=50 then int will not be able to store the factorial of 50 so use different menthod to store fact --will learn later
+
 
 //---------------------------------------
 // PRINT REVERSE OF TABLE OF A NUMBER N
