@@ -21,3 +21,4 @@ gcc filename.c
 
 ## Referances
 I am referring the C programming videos by [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=16856s) and [GeekforGeeks](https://www.geeksforgeeks.org/c/c-exercises/) for coding problems solving.
+For the notes you can have a look at this [Google Drive](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD).
