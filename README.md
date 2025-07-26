@@ -8,4 +8,5 @@ If you're also learning C or just brushing up the basics, feel free to check out
 - [CHAPTER 3](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%203) [Conditional Statements - If..else, switch case]
 - [CHAPTER 4](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%204) [Loop Control Statements - For, While, Do..while]
 - [CHAPTER 5](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%205) [Functions & Recurssion]
+- [CHAPTER 6]() [Pointers]
 
