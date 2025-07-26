@@ -10,3 +10,11 @@ If you're also learning C or just brushing up the basics, feel free to check out
 - [CHAPTER 5](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%205) [Functions & Recurssion]
 - [CHAPTER 6](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%206) [Pointers]
 
+## Tools & Setup ⚒️
+I'm using Visual Studio Code (VS Code) to write my C programs.
+To compile and run the code, I use the following terminal commands:
+```bash
+gcc filename.c
+./a.exe
+
+
