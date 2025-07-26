@@ -3,7 +3,7 @@
 //------------------------------------------
 //                 ARRAYS
 //-----------------------------------------
-/*
+
 int main(){
   // int marks1 = 97;
   // int marks3 = 94;
@@ -22,12 +22,12 @@ int main(){
   printf("phy = %d, chem = %d, math = %d", marks[0], marks[1], marks[2]);
   return 0;
 }
-  */
+  
 
 //------------------------------------------------------------
 // enter price of 3 items & print their final cost with gst
 //------------------------------------------------------------
-/*
+
 int main(){
   float price[3];  // or float price[] = {100.45, 56.6, 98};
   float final_cost[3];
@@ -46,12 +46,12 @@ int main(){
     }
   return 0;
 }
-  */
+  
 
   //----------------------------------------
   //POINTER ARITHMATIC
   //------------------------------------------
-  /*
+  
   int main(){
     int age = 22;
     int *ptr = &age;
@@ -63,12 +63,12 @@ int main(){
     return 0;
   }
   // same will happen with float (increment/decrement with 4 bytes) and char (1 byte)
-  */
+  
 
   //--------------------------------
   // subtraction / comparision of pointers
   //--------------------------------
-  /*
+  
   int main(){
     int age = 22;
     int _age = 23;
@@ -81,12 +81,12 @@ int main(){
   }
    // NOTE: the difference can be done only with same data type pointers. 
    // the difference is done on the bytes of data types.
-*/
+
 
 //-------------------------------------------------
 //TRAVENSE AN ARRAY
 //-----------------------------------------------
-/*
+
 int main(){
   int aadhar[5];
 
@@ -105,12 +105,12 @@ int main(){
   }
   return 0;
 }
-  */
+  
 
   //----------------------------------
   // ARRAYS AS FUNCTION ARGUEMENTS
   //------------------------------------
-  /*
+  
 void printNum (int arr[], int n); //*arr
 
 int main(){
@@ -124,12 +124,12 @@ void printNum (int arr[], int n){  // *arr
 printf("%d \t", arr[i]);
   }
 }
-  */
+  
 
   //---------------------------------
   // MULTI - DIMMENSIONAL ARRAYS
   //---------------------------------
-/*
+
   int main(){
 
     // 2x3
@@ -146,11 +146,11 @@ printf("%d \t", arr[i]);
     printf("%d", marks[0][1]);
     return 0;
   }
-    */
+    
     //-------------------------------------------------------
     // function to count the number of odd no's in array
     //-------------------------------------------------------
-      /*
+      
     int oddFun (int arr[], int n);
 
     int main(){
@@ -171,13 +171,13 @@ printf("%d \t", arr[i]);
       return count;
     }
 
-    */
+    
 
     //-------------------------------------
     // WRITE A FUNCTION TO REVERSE AN ARRAY
     //-------------------------------------
     // classic approach
-    /*
+    
     void revArray(int arr[], int n);
     void printArr (int arr[], int n);
 
@@ -205,14 +205,14 @@ printf("%d \t", arr[i]);
     }
 
     // whenever we pass array through functions it is call by referance because array is like a pointer.
-    */
+    
 
     //---------------------------------------
     // PROGRAM TO STORE 1ST N FIBONACCI NO'S
     //---------------------------------------
     // f(n) = f(n-1) + f(n-2)
 // 0,1,1,2,3,5,8,13,..............
-/*
+
     int main(){
       int n;
       printf("Enter n: ");
@@ -227,7 +227,7 @@ printf("%d \t", arr[i]);
       }
       return 0;
     }
-      */
+      
 
   //-----------------------------------------------
   // CRAETE 2D ARRAY, STORING THE TABLES OF 2 & 3  
