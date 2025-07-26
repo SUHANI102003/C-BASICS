@@ -1,7 +1,9 @@
 #include<stdio.h>
+
+//---------------------------------------
 // CONDITIONALS
+//---------------------------------------
 int main(){
-  /*
   int age;
   printf("enter age\n");
   scanf("%d",&age);
@@ -17,23 +19,22 @@ int main(){
   printf("CHILD\n");
   }
   printf("thankyou"); // will always print as not in cond
-  */
 
  //----------------------------------------
  //TERNARY OPERATOR
  //----------------------------------------
- /*
+ 
  int age;
   printf("enter age\n");
   scanf("%d",&age);
 
   age>=18 ? printf("ADULT\n") : printf("UNDERAGE\n");
-  */
+  
 
  //-------------------------------------------
  //SWITCH
  //-------------------------------------------
- /*
+ 
  int day;  // 1-mon, 2-tue, ......
   printf("enter day(1-7)\n");
   scanf("%d",&day);      // can use char too
@@ -56,12 +57,12 @@ int main(){
   default: printf("NOT VALID\n");
     
   }
-  */
+  
 
  //-----------------------------------
  //NESTED COND
  //--------------------------------------
- /*
+ 
   int number;
    printf("enter number\n");
   scanf("%d",&number);
@@ -79,12 +80,12 @@ int main(){
     printf("negative\n");
   }
   return 0;
-  */
+  
 
  //-----------------------------------------------
  // WAP TO CHECK IF STUDENT PASSED OR FAILED
  //----------------------------------------------
- /*
+ 
 int marks;
 printf("enter marks\n");
   scanf("%d",&marks);
@@ -102,12 +103,12 @@ printf("enter marks\n");
   //OR
    marks>30 && marks<=100 ?  printf("PASS\n") :  printf("FAIL\n");
   return 0;
-  */
+  
 
  //--------------------------------------
  //WAP TO GIVE GRADES TO A STUDENT
  //---------------------------------------
- /*
+ 
  int marks;
 printf("enter marks\n");
   scanf("%d",&marks);
@@ -125,12 +126,12 @@ printf("enter marks\n");
     printf("C\n");
   }
   return 0;
-  */
+  
 
  //------------------------------------------------------------
  //WAP TO CHECK IF CHAR IS UPPERCASE OR NOT
  //---------------------------------------------------------
- /*
+ 
 char letter ;
 printf("enter character\n");
   scanf("%c",&letter);
@@ -145,12 +146,12 @@ else{
   printf("NOT A ENGLISH LETTER\n");
 }
 return 0;
-*/
+
 
 //-----------------------------------------------
 //WAP TO CHECK IF A NUMBER IS ARMSTRONG OR NOT 
 //---------------------------------------------
-/*
+
 int num,rem;
 printf("enter num\n");  //ex. 153
   scanf("%d",&num);
@@ -168,11 +169,11 @@ else{
   printf("NOT AN ARMSTRONG NUMBER\n");
 }
 return 0;
-*/
+
 //-----------------------------------------------
 //WAP TO CHECK IF A NUMBER IS NATURAL OR NOT  (positive values from 1 to inf)
 //---------------------------------------------
-/*
+
 int num;
 printf("enter num\n");  //ex. 153
 scanf("%d",&num);
@@ -184,5 +185,5 @@ else{
   printf("NOT A NATURAL NUMBER\n");
 }
 return 0;
-*/
+
 }
