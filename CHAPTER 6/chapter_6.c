@@ -3,7 +3,7 @@
 //---------------------------
 // POINTERS
 //----------------------------
-/*
+
 int main() {
   int age = 22;
   int *ptr = &age; // means value at the address of (*) ptr is the address of age
@@ -11,12 +11,12 @@ int main() {
   
   printf("%d", _age);
   return 0;
-}*/
+}
 
 //------------------------------
 // ADDRESS PRINTING
 //---------------------------
-/*
+
 int main(){
   int age = 22;
   int *ptr = &age;
@@ -27,11 +27,11 @@ int main(){
   printf("%p\n", &ptr); // 0061FF18 (address of pointer)
   return 0;
 }
-  */
+  
 //------------------------------
 // VALUE PRINTING
 //-----------------------------
-/*
+
 int main(){
   int age = 22;
   int *ptr = &age;
@@ -43,12 +43,12 @@ int main(){
   printf("%d\n", *(&age)); //22
   return 0;
 }
-  */
+  
 
   //---------------------------------
   // Practice questions
   //----------------------------------
-/*
+
   int main(){
     int x;
     int *ptr;
@@ -69,7 +69,7 @@ int main(){
 
     return 0;
   }
-    */
+    
 
     //---------------------------------
     // POINTER TO POINTER
@@ -85,7 +85,7 @@ int main(){
     //----------------------------------------------
     // print the value of 'i' from its pointer to pointer
     //------------------------------------------------
-/*
+
     int main(){
       int i = 5;
       int *ptr = &i;
@@ -94,7 +94,7 @@ int main(){
       printf("%d\n", **pptr);
       return 0;
     }
-      */
+      
 
 
 //---------------------------------------------
@@ -103,7 +103,7 @@ int main(){
 //--------------------------------------------
 // 1. CALL BY VALUE
 //-------------------------------------------
-/*
+
 void square (int n);
 int main(){
   int number = 4;
@@ -118,12 +118,12 @@ void square(int n){    /
 
   // here in this function a copy of variable number is created. so even if we change it inside function, the original value does not change. therefore, we see at output number = 4 and not 16.
 }
-  */
+  
 
   //-------------------------------
   //2. CALL BY REFERANCE 
   //-------------------------------
-/*
+
   void _square(int *n);
 
   int main(){
@@ -141,11 +141,11 @@ printf("square = %d\n", *n);
 // square = 16
 // number = 16  // value changed
 
-*/
+
 //----------------------------------------------
 // SWAP 2 NUMBERS A & B
 //---------------------------------------------
-/*
+
 void swap(int a, int b); // call by value
 void _swap(int *a, int*b); // call by ref
 
@@ -170,12 +170,12 @@ void _swap(int *a, int*b){
   *a = *b;
   *b = t;
 }
-  */
+  
 
   //-------------------------------
   // practice question
   //-----------------------------
-  /*
+  
   void printAddress(int n);
 
   int main(){
@@ -188,14 +188,14 @@ void _swap(int *a, int*b){
   void printAddress(int n){
 printf("address of n is : %p\n", &n);
   }
-*/
+
 
 //--------------------------------------------------
 // Write a f'n to calculate sum, product & average of 2 numbers. Print that average in the main function.
 //------------------------------------------------
 
 // we know that function only passes 1 value. so for multiple output values we will use pointers
-/*
+
 void doWork (int a, int b, int *sum, int *prod, int*avg);
 
 int main(){
@@ -212,12 +212,12 @@ void doWork (int a, int b, int *sum, int *prod, int*avg){
   *prod = a*b;
   *avg = (a+b)/2;
 }
-  */
+  
 
   //---------------------------------------------------
   //Fint maximum number between 2 no's using pointer
   //-------------------------------------------------
-/*
+
     void funcMaxNo(int *a, int *b);
 
   int main(){
@@ -234,7 +234,7 @@ void doWork (int a, int b, int *sum, int *prod, int*avg){
       printf("%d is maximum", *b);
     }
   }
-    */
+    
 
     //-------------------------------------------
     //Print elements of an array in reverse order
