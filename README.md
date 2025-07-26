@@ -11,6 +11,7 @@ If you're also learning C or just brushing up the basics, feel free to check out
 - [CHAPTER 6](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%206) [Pointers]
 - [CHAPTER 7](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%207) [Arrays]
 - [CHAPTER 8](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%208) [Strings]
+- [CHAPTER 9]() [Structures]
 
 ## Tools & Setup ⚒️
 I'm using Visual Studio Code (VS Code) to write my C programs.
