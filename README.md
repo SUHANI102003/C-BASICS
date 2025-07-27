@@ -3,16 +3,16 @@ Welcome! I'm currently learning C programming and then will move on to learn C++
 If you're also learning C/C++ or just brushing up the basics, feel free to check out this repo and star it to learn along with me. Let’s grow together! 😄
 
 ## C LANGUAGE CONTENTS
-- [CHAPTER 01](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%201) [Hello World, Data Types, Outputs, Inputs, Variables]
-- [CHAPTER 02](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%202) [Instruction & Operators, Practice examples]
-- [CHAPTER 03](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%203) [Conditional Statements - If..else, switch case]
-- [CHAPTER 04](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%204) [Loop Control Statements - For, While, Do..while]
-- [CHAPTER 05](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%205) [Functions & Recurssion]
-- [CHAPTER 06](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%206) [Pointers]
-- [CHAPTER 07](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%207) [Arrays]
-- [CHAPTER 08](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%208) [Strings]
-- [CHAPTER 09](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%209) [Structures]
-- [CHAPTER 10](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%2010) [Dynamic Memory Allocation]
+- [CHAPTER 01](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2001) [Hello World, Data Types, Outputs, Inputs, Variables]
+- [CHAPTER 02](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2002) [Instruction & Operators, Practice examples]
+- [CHAPTER 03](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2003) [Conditional Statements - If..else, switch case]
+- [CHAPTER 04](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2004) [Loop Control Statements - For, While, Do..while]
+- [CHAPTER 05](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2005) [Functions & Recurssion]
+- [CHAPTER 06](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2006) [Pointers]
+- [CHAPTER 07](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2007) [Arrays]
+- [CHAPTER 08](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2008) [Strings]
+- [CHAPTER 09](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2009) [Structures]
+- [CHAPTER 10](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2010) [Dynamic Memory Allocation]
 
 ## Tools & Setup ⚒️
 I'm using Visual Studio Code (VS Code) to write my C programs.
@@ -27,4 +27,4 @@ I am referring the C programming videos by [Apna College](https://www.youtube.co
 For the notes you can have a look at this [Google Drive](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD).
 
 ## C++ LANGUAGE CONTENTS
-- [CHAPTER 11](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%201) 
+- [CHAPTER 11](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2011) []
