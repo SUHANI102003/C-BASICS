@@ -1,17 +1,17 @@
-# C-BASICS
-Welcome! I'm currently learning C programming, and this repo is my space for basic concepts, simple programs, and experiments as I go. 
-If you're also learning C or just brushing up the basics, feel free to check out this repo and star it to learn along with me. Let’s grow together! 😄
+# C/C++ BASICS
+Welcome! I'm currently learning C programming and then will move on to learn C++ and OOPS conceps. This repo is my space for basic concepts, simple programs, and experiments as I go. 
+If you're also learning C/C++ or just brushing up the basics, feel free to check out this repo and star it to learn along with me. Let’s grow together! 😄
 
-## CONTENTS
-- [CHAPTER 1](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%201) [Hello World, Data Types, Outputs, Inputs, Variables]
-- [CHAPTER 2](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%202) [Instruction & Operators, Practice examples]
-- [CHAPTER 3](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%203) [Conditional Statements - If..else, switch case]
-- [CHAPTER 4](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%204) [Loop Control Statements - For, While, Do..while]
-- [CHAPTER 5](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%205) [Functions & Recurssion]
-- [CHAPTER 6](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%206) [Pointers]
-- [CHAPTER 7](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%207) [Arrays]
-- [CHAPTER 8](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%208) [Strings]
-- [CHAPTER 9](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%209) [Structures]
+## C LANGUAGE CONTENTS
+- [CHAPTER 01](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%201) [Hello World, Data Types, Outputs, Inputs, Variables]
+- [CHAPTER 02](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%202) [Instruction & Operators, Practice examples]
+- [CHAPTER 03](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%203) [Conditional Statements - If..else, switch case]
+- [CHAPTER 04](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%204) [Loop Control Statements - For, While, Do..while]
+- [CHAPTER 05](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%205) [Functions & Recurssion]
+- [CHAPTER 06](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%206) [Pointers]
+- [CHAPTER 07](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%207) [Arrays]
+- [CHAPTER 08](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%208) [Strings]
+- [CHAPTER 09](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%209) [Structures]
 - [CHAPTER 10](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%2010) [Dynamic Memory Allocation]
 
 ## Tools & Setup ⚒️
@@ -25,3 +25,6 @@ gcc filename.c
 ## Referances
 I am referring the C programming videos by [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=16856s) and [GeekforGeeks](https://www.geeksforgeeks.org/c/c-exercises/) for coding problems solving.
 For the notes you can have a look at this [Google Drive](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD).
+
+## C++ LANGUAGE CONTENTS
+- [CHAPTER 11](https://github.com/SUHANI102003/C-BASICS/tree/main/CHAPTER%201) 
