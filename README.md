@@ -22,10 +22,17 @@ If you're also learning C/C++ or just brushing up the basics, feel free to check
 
   
 ## Tools & Setup ⚒️
-I'm using Visual Studio Code (VS Code) to write my C programs.
+I'm using Visual Studio Code (VS Code) to write my C and C++ programs.
 To compile and run the code, I use the following terminal commands:
+
+For C :
 ```bash
 gcc filename.c
+./a.exe
+```
+For C++ :
+```bash
+g++ filename.cpp
 ./a.exe
 ```
 
