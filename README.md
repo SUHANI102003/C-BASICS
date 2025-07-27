@@ -14,6 +14,11 @@ If you're also learning C/C++ or just brushing up the basics, feel free to check
 - [CHAPTER 09](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2009) [Structures]
 - [CHAPTER 10](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2010) [Dynamic Memory Allocation]
 
+
+## C++ LANGUAGE CONTENTS
+- [CHAPTER 11](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2011) []
+
+  
 ## Tools & Setup ⚒️
 I'm using Visual Studio Code (VS Code) to write my C programs.
 To compile and run the code, I use the following terminal commands:
@@ -26,5 +31,3 @@ gcc filename.c
 I am referring the C programming videos by [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=16856s) and [GeekforGeeks](https://www.geeksforgeeks.org/c/c-exercises/) for coding problems solving.
 For the notes you can have a look at this [Google Drive](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD).
 
-## C++ LANGUAGE CONTENTS
-- [CHAPTER 11](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2011) []
