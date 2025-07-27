@@ -18,7 +18,7 @@ If you're also learning C/C++ or just brushing up the basics, feel free to check
 ## C++ LANGUAGE CONTENTS
 - [CHAPTER 12](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2012) [Basics]
 - [CHAPTER 13](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2013) [OOPS-Class, Object, Methods, Property, Encapsulation, Access Modifiers]
-- [CHAPTER 12](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2014) [Constructors]
+- [CHAPTER 14](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2014) [Constructors]
 
   
 ## Tools & Setup ⚒️
