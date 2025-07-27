@@ -3,7 +3,7 @@
 //-----------------------------------------
 //                  STRUCTURES
 //-----------------------------------------
-/*
+
 struct student{     // datatype = struct student
   int roll;
   float cgpa;
@@ -44,11 +44,11 @@ int main(){
 
 return 0;
 }
-*/
+
 //---------------------------------------------
 //ARRAY OF STRUCTURES
 //---------------------------------------------
-/*
+
 struct student{     
   int roll;
   float cgpa;
@@ -64,11 +64,11 @@ int main(){
   printf("student name = %s\n", ece[0].name);
   return 0;
 }
-  */
+  
  //-------------------------------------
  // INITIALIZING STRUCTURES
  //--------------------------------------
- /*
+ 
  struct student{     
   int roll;
   float cgpa;
@@ -80,12 +80,12 @@ int main(){
   printf("student name = %s\n", s1.name);
   return 0;
 }
-  */
+  
 
 //------------------------------------------
 // POINTERS TO STRUCTURES
 //-----------------------------------------
-/*
+
 struct student{     
   int roll;
   float cgpa;
@@ -100,11 +100,11 @@ int main(){
   printf("student name = %s", (*ptr).name);
   return 0;
 }
-*/
+
 //------------------------------------------
 // ARROW OPERATOR (similar to pointer)
 //-----------------------------------------
-/*
+
 struct student{     
   int roll;
   float cgpa;
@@ -122,12 +122,12 @@ int main(){
   printf("student->cgpa = %f\n", ptr->cgpa);
   return 0;
 }
-  */
+  
 
 //-----------------------------------------
 //PASSING STRUCTURE TO FUNCTIONS
 //------------------------------------------
-/*
+
 struct student{     
   int roll;
   float cgpa;
@@ -153,12 +153,12 @@ void printInfo(struct student s1){  // call by value
   s1.roll=45;  // change will not reflect in main function
   
 }
-  */
+  
 
 //--------------------------------------
 // TYPEDEF 
 //--------------------------------------
-/*
+
 typedef struct student{     
   int roll;
   float cgpa;
@@ -178,12 +178,12 @@ int main(){
   printf("student.roll = %d\n", e1.roll);
   return 0;
 }
-*/
+
 
 //-----------------------------------------------------------
 // Enter address (house no. , block, city, state) of 5 people
 //-----------------------------------------------------------
-/*
+
 typedef struct address{     
   int houseNo;
   int block;
@@ -237,13 +237,13 @@ void printAdd(struct address adds)
 {
 printf("Address is: %d, %d, %s, %s \n", adds.houseNo, adds.block, adds.city, adds.state);
 }
-*/
+
 
 //---------------------------------------------------
 //Create structure to store vectors. Then make a function to return sum of 2 vectors
 //----------------------------------------------------
 // (x1+x2)i + (y1+y2)j
-/*
+
 struct vector{     
   int x;
   int y;
@@ -266,7 +266,7 @@ void calSum(struct vector v1, struct vector v2, struct  vector sum){
   printf("sum of x is : %d/n", sum.x);
   printf("sum of y is : %d", sum.y);
 }
-*/
+
 
 //-----------------------------------------------
 //Create a structure to store complex numbers.(use arrow op)
