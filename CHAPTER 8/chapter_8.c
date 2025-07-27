@@ -5,7 +5,7 @@
 //---------------------------------------------
 //               DECLARATION
 //---------------------------------------------
-/*
+
 int main(){
 //char name[] = {'S', 'U', 'H', 'A', 'N', 'I', '\0'}; // '\0' = null character - terminates string
 // char name[] = "SUHANI";
@@ -13,12 +13,12 @@ int main(){
 printf("%s", name);
   return 0;
 }
-  */
+  
 
  //-------------------------------------------
  //create a string firstname & lastname to store details of user & print all the characters using a loop
  //--------------------------------------------
-/*
+
  void printString(char arr[]);
 
  int main(){
@@ -36,14 +36,14 @@ printf("%s", name);
   }
   printf("\n");
  }
-  */
+  
 
 //----------------------------------------
 //Ask the user to enter their firstname & print
 //it back to them.
 // Also try this with their full name.
 //----------------------------------------
-/*
+
 int main(){
 
 // PART 1
@@ -58,12 +58,12 @@ printf("Your full name is %s", fullName); // will only print SUHANI
 // so, scanf cannot input multi-word st
   return 0;
 }
-  */
+  
 
   //------------------------------------
   //   puts(str) , fgets(str, n, file), gets(str)
   //------------------------------------
-  /*
+  
   int main(){
     char str[100];
     //gets(str);   // inputs string - but not used 
@@ -71,12 +71,12 @@ printf("Your full name is %s", fullName); // will only print SUHANI
     puts(str);  // output string
     return 0;
   }
-    */
+    
 
 //-----------------------------------------
 // POINTER DECLARATION OF STRING
 //--------------------------------------
-/*
+
 int main(){
   char *canChange = "Hello World";  // can be reinitialized
   puts(canChange);
@@ -89,12 +89,12 @@ int main(){
   puts(cannotChange);
   return 0;
 }
-  */
+  
 
   //-----------------------------------------
   // WAP that inputs user name & prints its length.
   //-------------------------------------------------
-  /*
+  
   int countLength (char arr[]);
 
   int main(){
@@ -111,12 +111,12 @@ int main(){
     }
     return count-1;
    }
-    */
+    
 
     //----------------------------------
     // Standard Library Functions
     //----------------------------------
-    /*
+    
     //strlen();
     int main(){
       char name[] = "suhani";
@@ -157,12 +157,12 @@ int main(){
       printf("%d", comp);   // -1 ==> str1<str2
       return 0;
     }
-      */
+      
 
 //-----------------------------------------
 // TAKE A STRING INPUT FROM USER USING %c
 //-----------------------------------------
-/*
+
 int main(){
   char str[100];
   char ch;
@@ -176,13 +176,13 @@ int main(){
   str[i] = '\0';
   puts(str);
 }
-  */
+  
 
 //-----------------------------------------------------
 //SALTING
 // Find the salted form of a password entered by user if the salt is '123'& added at the end.
 //----------------------------------------------------
-/*
+
 void salting(char password[]);
 int main(){
   char password[100];
@@ -199,12 +199,12 @@ void salting(char password[]){
   strcat(newPass, salt);    // "test" + "123"
   puts(newPass);
 }
-  */
+  
 
   //-------------------------------------------
   //Write a func named slice, which takes a string & returns a sliced string from index n to m.
   //--------------------------------------------------
-/*
+
   void slice(char str[], int n, int m);
 
   int main(){
@@ -222,12 +222,12 @@ void salting(char password[]){
     sliced[j] = '\0';
     puts(sliced);
   }
-    */
+    
 
     //--------------------------------------------
     // Write a function to count the occurance of vowels in a string
     //--------------------------------------------
-/*
+
     int countVowel(char str[]);
 
     int main(){
@@ -246,11 +246,11 @@ void salting(char password[]){
       return count;
     }
 
-    */
+    
    //---------------------------------------------------
    // Check if a given character is present in a string of not
    //---------------------------------------------------
-   /*
+   
     void checkChar(char str[], char ch);
 
     int main(){
@@ -271,8 +271,6 @@ void salting(char password[]){
       }
      printf("Character is not present\n");
     }
-     */
+     
 
-     //---------------------------------------------
-     //
-     //----------------------------------------------
+     
