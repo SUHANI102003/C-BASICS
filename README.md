@@ -13,10 +13,10 @@ If you're also learning C/C++ or just brushing up the basics, feel free to check
 - [CHAPTER 08](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2008) [Strings]
 - [CHAPTER 09](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2009) [Structures]
 - [CHAPTER 10](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2010) [Dynamic Memory Allocation]
-
+- [CHAPTER 11](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2011) [File I/O]
 
 ## C++ LANGUAGE CONTENTS
-- [CHAPTER 11](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2011) []
+- [CHAPTER 12](https://github.com/SUHANI102003/C-CPP_BASICS/tree/main/CHAPTER%2012) []
 
   
 ## Tools & Setup ⚒️
